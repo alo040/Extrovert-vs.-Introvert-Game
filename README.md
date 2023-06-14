@@ -1,5 +1,5 @@
 # Extrovert-vs.-Introvert-Game
-Have you ever been asked, "Are you an extrovert or an introvert?"
+Have you ever been asked, "Are you an extrovert or an introvert?" Then this is the perfect game for you becasue it tells you how much of both you are through a series of questions!
 
      def percentage_calculation(score, total):
           return (score / total) * 100
